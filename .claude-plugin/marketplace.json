@@ -1,0 +1,8 @@
+{
+  "name": "4lex-gs-plugins",
+  "owner": { "name": "4lex-gs" },
+  "description": "4lex-gs の Claude Code mod 集",
+  "plugins": [
+    { "name": "session-memo", "source": "./plugins/session-memo" }
+  ]
+}

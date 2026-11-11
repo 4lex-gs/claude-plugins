@@ -1,0 +1,7 @@
+{
+  "name": "session-memo",
+  "version": "0.1.0",
+  "description": "セッションごとにメモを Markdown で残す",
+  "author": { "name": "4lex-gs" },
+  "types": "./types/index.d.ts"
+}
